@@ -15,13 +15,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/robbirodhiyan/ContactProfiles.git
+    git clone https://github.com/robbirodhiyan/Pengelolaan.git
     ```
 
 2. Navigate to the project's root directory:
 
     ```bash
-    cd ContactProfiles
+    cd Pengelolaan
     ```
 
 3. Install dependencies:
