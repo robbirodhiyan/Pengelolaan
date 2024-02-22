@@ -58,15 +58,5 @@ Before you begin, ensure you have met the following requirements:
     ```
 
 The application should now be accessible at `http://localhost:8000`.
+![image](https://github.com/robbirodhiyan/Pengelolaan/assets/115376452/d1f763ad-362f-4b0d-9fba-324486edb64f)
 
-## Usage
-
-- Visit `http://localhost:8000/contact-profiles` to access the contact profiles.
-
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
